@@ -1,9 +1,9 @@
 # package.json
-### Purpose
-This is a standard configuration file for [npm](https://npmjs.org/doc/json.html). Among other things, this file contains the name and version of all of the Node Modules that your app depends on to run.  You can change this manually but be careful to adhere to their rules or things might break.
+### Mục Đích
+Đây là file cấu hình chuẩn trong NodeJS sử dụng [npm](https://npmjs.org/doc/json.html). Ngoài các cấu hình khác, tập tin này chứa toàn bộ modules và phiên bản của nó đang được sử dụng trong ứng dụng của bạn. Bạn có thể thay đổi tập tin này nhưng nên cẩn trọng, một số thiết lập có thể ảnh hưởng đến hệ thống ứng dụng của bạn.
 
-### More Info
-> Check out [this awesome interactive guide by Nodejitsu](http://package.json.nodejitsu.com) explaining package.json
+### Tham Khảo Thêm
+> Tham khảo [hướng dẫn sử dụng tập tin cấu hình ứng dụng NPM của Nodejitsu (bằng tiếng Anh)](http://package.json.nodejitsu.com) để hiểu rõ thêm về `package.json`.
 
 
 
